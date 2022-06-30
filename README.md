@@ -1,4 +1,5 @@
 # ortalama_hesapla
+[![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2/project/3b98a964-08a3-4ee0-ade2-23ac3785228a.svg)](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2/project/3b98a964-08a3-4ee0-ade2-23ac3785228a)
 
 A new Flutter project.
 
